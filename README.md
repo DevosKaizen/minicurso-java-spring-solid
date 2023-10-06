@@ -44,3 +44,7 @@ spring.jpa.show-sql=true
 ### Modelagem Relacional
 
 [📂 Modelo Relacional](./Minicurso-Java-Spring.pdf)
+
+abrir localhost
+localhost:8080/swagger-ui/index.html#
+
